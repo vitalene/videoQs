@@ -1,0 +1,7 @@
+@IBdesignable - Which things does this work for?
+
+Why would we need an extra "updateview()" 
+
+Why do instances have to be fully initialized before using them?
+
+What gets loaded at what time and in what order?
